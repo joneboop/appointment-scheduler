@@ -3,8 +3,6 @@
 A simple appointment booking application built with **Laravel, Inertia.js, and Vue 3**.  
 The project demonstrates server-side availability calculation, conflict-safe booking, and a clean full-stack architecture.
 
-This app was built as a technical demo to showcase PHP (Laravel) and Vue knowledge.
-
 ---
 
 ## Features
@@ -23,7 +21,7 @@ This app was built as a technical demo to showcase PHP (Laravel) and Vue knowled
 - **Backend:** PHP 8+, Laravel
 - **Frontend:** Vue 3, Inertia.js
 - **Styling:** Tailwind CSS
-- **Database:** SQLite (for simplicity)
+- **Database:** SQLite
 
 ---
 
