@@ -90,8 +90,8 @@ class AvailabilityService
             // 6) Check overlap with any existing appointment
             if (!$this->overlapsAny($slotStart, $slotEnd, $busyIntervals)) {
                 $slots[] = [
-                    'start' => $slotStart->toIso8601String(),
-                    'end'   => $slotEnd->toIso8601String(),
+                    'start' => $slotStart->format('Y-m-d H:i:s'),
+                    'end'   => $slotEnd->format('Y-m-d H:i:s'),
                 ];
             }
 
