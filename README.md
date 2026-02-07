@@ -1,7 +1,13 @@
-# Appointment Scheduler Lite
+# Appointment Scheduler
 
 A simple appointment booking application built with **Laravel, Inertia.js, and Vue 3**.  
 The project demonstrates server-side availability calculation, conflict-safe booking, and a clean full-stack architecture.
+
+---
+
+## Contributors
+
+Joonas Korkiakoski
 
 ---
 
